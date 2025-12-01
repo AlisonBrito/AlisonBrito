@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- Cursando Ciência da Computação<br>- Aberto para vagas de Desenvolvedor Web, Back-end e UX/UI Designer<br>- Sou desenvolvedor mais criativo e que sempre está em busca de automatizar e solucionar processos. <br>- Meu objetivo hoje é a primeira vaga como DEV</p>
+<p align="left">- Cursando Ciência da Computação<br>- Aberto para vagas de Desenvolvedor Web, Back-end e UX/UI Designer<br>- Sou um desenvolvedor mais criativo e que sempre está em busca de automatizar e solucionar processos. <br>- Meu objetivo hoje é a primeira vaga como DEV</p>
 
 ###
 
